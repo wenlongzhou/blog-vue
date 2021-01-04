@@ -1,0 +1,11 @@
+*.mdb
+*.ldb
+*.sln
+*.swo
+.buildpath
+.project
+.settings
+assets
+uploads
+.idea/
+.htaccess
